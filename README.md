@@ -1,5 +1,8 @@
 # OS
 
+IMP chat :  https://chat.openai.com/share/48d34b5d-f115-4409-8021-9b1e0d1592ca
+
+
 FTP Server
 
 Step1: Update package index using following command
